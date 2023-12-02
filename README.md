@@ -17,4 +17,8 @@ We need to abduct the data and make our own visualization of it.
     - Saved it as `air-quality.csv`
 2. Make that update automatically!
     - Make it a GitHub repository
-    
+    - Turn on GitHub Actions
+    - Set up your .yml file
+        - BE SURE TO MAKE SURE YOUR NOTEBOOK NAME MATCHES!!!!
+3. Make a website!!!
+    - index.html
