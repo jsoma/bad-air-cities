@@ -1,0 +1,40 @@
+# You can name this whatever you want
+name: update
+
+# You will get an error on the automatic updates committing
+# if you do not have this line
+# You didn't need it before, which is why a lot of yml job files
+# you see will not have it (but you need it now!!!)
+permissions:
+  contents: write
+  
+# The 'on' section is about when this is run
+# workflow_dispatch makes there be a button on GitHub to let you run it manually
+# schedule and cron make it run at certain frequencies
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 */2 * * *'
+jobs:
+  daily:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Check out this repo
+      uses: actions/checkout@v2
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.10'
+    - name: Install all necessary packages
+      run: pip install jupyter lxml pandas requests beautifulsoup4 html5lib
+    - name: Scraping today's data
+      run: jupyter nbconvert --to notebook --execute "AQI Updater.ipynb" --stdout
+    - name: Commit and push any changes
+      run: |-
+        git config user.name "Automated"
+        git config user.email "actions@users.noreply.github.com"
+        git add -A
+        timestamp=$(date -u)
+        git commit -m "Latest data: ${timestamp}" || exit 0
+        git push
+
