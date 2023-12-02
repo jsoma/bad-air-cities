@@ -27,4 +27,10 @@ We need to abduct the data and make our own visualization of it.
     - Make sure your index.html works by visiting your page
 4. Make a visualization for our webpage
     - We're going to use DataWrapper!!!
-    
+    - Make sure we're linking to our data, not uploading it
+    - Use the 'responsive iframe' version of embedding
+5. Update our website
+    - Add the embed code to our index.html
+    - Push it on up to GitHub Pages
+    - Wait for GitHub actions to finish deploying our web page
+6. Party!!!!
