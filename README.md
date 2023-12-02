@@ -21,4 +21,10 @@ We need to abduct the data and make our own visualization of it.
     - Set up your .yml file
         - BE SURE TO MAKE SURE YOUR NOTEBOOK NAME MATCHES!!!!
 3. Make a website!!!
-    - index.html
+    - Create an index.html
+    - Add it to your repo and push it up to GitHub
+    - Turn on GitHub Pages by clicking many buttons
+    - Make sure your index.html works by visiting your page
+4. Make a visualization for our webpage
+    - We're going to use DataWrapper!!!
+    
