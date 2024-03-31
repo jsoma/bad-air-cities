@@ -1,122 +1,101 @@
 Rank,Location,AQI US,Followers
-1,"Delhi, India",185,2.7M followers
-2,"Hanoi, Vietnam",170,2.1M followers
-3,"Karachi, Pakistan",166,66.4K followers
-4,"Chiang Mai, Thailand",163,11.6M followers
-5,"Melbourne, Australia",157,284.2K followers
-6,"Hangzhou, China",155,301.6K followers
-7,"Kolkata, India",153,1.4M followers
-8,"Prague, Czech Republic",147,103.8K followers
-9,"Jakarta, Indonesia",131,1.6M followers
-10,"Berlin, Germany",130,188.2K followers
-11,"Cairo City, Egypt",124,23.3K followers
-12,"Istanbul, Turkey",119,214.9K followers
-13,"Kathmandu, Nepal",117,140.2K followers
-14,"Tel Aviv-Yafo, Israel",114,78K followers
-15,"Beijing, China",114,6.6M followers
-16,"Yangon, Myanmar",109,21.5K followers
-17,"Dubai, United Arab Emirates",108,352.8K followers
-18,"Medan, Indonesia",105,1.3M followers
-19,"Wuhan, China",103,308.9K followers
-20,"Mumbai, India",102,1.5M followers
-21,"Shanghai, China",95,2.1M followers
-22,"Lahore, Pakistan",95,375.2K followers
-23,"Mexico City, Mexico",94,334.5K followers
-24,"Dhaka, Bangladesh",91,222K followers
-25,"Vienna, Austria",90,138.2K followers
-26,"Baghdad, Iraq",88,18.8K followers
-27,"Bogota, Colombia",88,78.4K followers
-28,"Kuwait City, Kuwait",87,62.7K followers
-29,"Wroclaw, Poland",86,252K followers
-30,"Krakow, Poland",84,300.4K followers
-31,"Detroit, USA",82,23.8K followers
-32,"Doha, Qatar",80,97.3K followers
-33,"Busan, South Korea",80,164.8K followers
-34,"Phnom Penh, Cambodia",79,389.5K followers
-35,"Tashkent, Uzbekistan",78,107.4K followers
-36,"Addis Ababa, Ethiopia",76,14.6K followers
-37,"Guangzhou, China",76,1.5M followers
-38,"Bratislava, Slovakia",75,37.2K followers
-39,"Ulaanbaatar, Mongolia",74,50K followers
-40,"Batam, Indonesia",73,1.3M followers
-41,"Kuala Lumpur, Malaysia",73,370K followers
-42,"Tokyo, Japan",68,993.1K followers
-43,"Manama, Bahrain",66,28.1K followers
-44,"Chengdu, China",66,1.7M followers
-45,"Chongqing, China",66,164.4K followers
-46,"Riyadh, Saudi Arabia",65,82.1K followers
-47,"Bucharest, Romania",65,60.5K followers
-48,"Ho Chi Minh City, Vietnam",65,2.2M followers
-49,"Kobe, Japan",65,27K followers
-50,"Kyoto, Japan",64,77.6K followers
-51,"Bern, Switzerland",63,82.5K followers
-52,"Warsaw, Poland",62,318.9K followers
-53,"Jerusalem, Israel",61,58.5K followers
-54,"Kinshasa, Democratic Republic of the Congo",61,6.4K followers
-55,"Osaka, Japan",61,56.5K followers
-56,"Sarajevo, Bosnia Herzegovina",61,46.5K followers
-57,"Brussels, Belgium",60,137K followers
-58,"Tehran, Iran",59,1M followers
-59,"Taipei, Taiwan",59,962.4K followers
-60,"Shenzhen, China",59,371.5K followers
-61,"Zagreb, Croatia",57,13.4K followers
-62,"Sao Paulo, Brazil",57,78.6K followers
-63,"Lima, Peru",56,34K followers
-64,"Hong Kong, Hong Kong SAR",56,655.6K followers
-65,"Accra, Ghana",55,6K followers
-66,"Bangkok, Thailand",55,5.3M followers
-67,"Athens, Greece",53,22.7K followers
-68,"Kaohsiung, Taiwan",53,674.9K followers
-69,"Munich, Germany",52,331.2K followers
-70,"Denver, USA",52,1.5M followers
-71,"Kabul, Afghanistan",50,20.5K followers
-72,"Canberra, Australia",50,269.6K followers
-73,"London, United Kingdom",50,215.3K followers
-74,"Amsterdam, Netherlands",48,230.1K followers
-75,"Minneapolis, USA",47,14.3K followers
-76,"Incheon, South Korea",45,21K followers
-77,"Milano, Italy",44,106.5K followers
-78,"Nairobi, Kenya",43,13K followers
-79,"Johannesburg, South Africa",41,61.5K followers
-80,"Singapore, Singapore",41,843.3K followers
-81,"Santiago, Chile",41,92K followers
-82,"Washington, D.C., USA",41,35.2K followers
-83,"Bishkek, Kyrgyzstan",41,36.1K followers
-84,"Seoul, South Korea",40,6.1M followers
-85,"Moscow, Russia",39,743.7K followers
-86,"Budapest, Hungary",37,20.3K followers
-87,"Lisbon, Portugal",35,19.3K followers
-88,"Helsinki, Finland",34,71.8K followers
-89,"Kampala, Uganda",33,9.2K followers
-90,"Astana, Kazakhstan",32,23.9K followers
-91,"Birmingham, United Kingdom",31,279.9K followers
-92,"Nice, France",31,448.2K followers
-93,"Sofia, Bulgaria",29,107.8K followers
-94,"Madrid, Spain",29,320.2K followers
-95,"New York City, USA",28,1.8M followers
-96,"Algiers, Algeria",27,36.8K followers
-97,"Paris, France",27,5.3M followers
-98,"Skopje, North Macedonia",27,12.9K followers
-99,"Kyiv, Ukraine",27,264.1K followers
+1,"Hanoi, Vietnam",168,2.1M followers
+2,"Delhi, India",164,2.7M followers
+3,"Chiang Mai, Thailand",154,11.6M followers
+4,"Kolkata, India",152,1.4M followers
+5,"Jakarta, Indonesia",144,1.6M followers
+6,"Prague, Czech Republic",143,103.8K followers
+7,"Melbourne, Australia",140,284.4K followers
+8,"Istanbul, Turkey",139,214.9K followers
+9,"Hangzhou, China",137,301.6K followers
+10,"Shanghai, China",132,2.1M followers
+11,"Karachi, Pakistan",126,66.4K followers
+12,"Beijing, China",124,6.6M followers
+13,"Cairo City, Egypt",119,23.4K followers
+14,"Dhaka, Bangladesh",119,222K followers
+15,"Berlin, Germany",118,188.3K followers
+16,"Tel Aviv-Yafo, Israel",114,78K followers
+17,"Mumbai, India",105,1.5M followers
+18,"Baghdad, Iraq",91,18.8K followers
+19,"Wroclaw, Poland",91,252K followers
+20,"Vienna, Austria",91,138.2K followers
+21,"Dubai, United Arab Emirates",91,352.9K followers
+22,"Kuwait City, Kuwait",90,62.7K followers
+23,"Lahore, Pakistan",88,375.2K followers
+24,"Bogota, Colombia",87,78.4K followers
+25,"Wuhan, China",86,309K followers
+26,"Mexico City, Mexico",84,334.5K followers
+27,"Jerusalem, Israel",82,58.5K followers
+28,"Kinshasa, Democratic Republic of the Congo",82,6.4K followers
+29,"Yangon, Myanmar",81,21.5K followers
+30,"Guangzhou, China",81,1.5M followers
+31,"Detroit, USA",76,23.8K followers
+32,"Busan, South Korea",75,164.8K followers
+33,"Accra, Ghana",72,6K followers
+34,"Taipei, Taiwan",72,962.5K followers
+35,"Kathmandu, Nepal",71,140.2K followers
+36,"Batam, Indonesia",69,1.3M followers
+37,"Krakow, Poland",69,300.4K followers
+38,"Osaka, Japan",68,56.5K followers
+39,"Tokyo, Japan",68,993.2K followers
+40,"Phnom Penh, Cambodia",67,389.6K followers
+41,"Addis Ababa, Ethiopia",66,14.6K followers
+42,"Kuala Lumpur, Malaysia",66,370K followers
+43,"Ulaanbaatar, Mongolia",66,50K followers
+44,"Riyadh, Saudi Arabia",65,82.2K followers
+45,"Kyoto, Japan",65,77.6K followers
+46,"Kobe, Japan",64,27K followers
+47,"Doha, Qatar",63,97.3K followers
+48,"Shenzhen, China",63,371.6K followers
+49,"Tashkent, Uzbekistan",63,107.4K followers
+50,"Chengdu, China",62,1.7M followers
+51,"Bern, Switzerland",61,82.5K followers
+52,"Bucharest, Romania",60,60.5K followers
+53,"Sarajevo, Bosnia Herzegovina",60,46.5K followers
+54,"Zagreb, Croatia",59,13.4K followers
+55,"London, United Kingdom",59,215.3K followers
+56,"Hong Kong, Hong Kong SAR",58,655.6K followers
+57,"Medan, Indonesia",57,1.3M followers
+58,"Ho Chi Minh City, Vietnam",57,2.2M followers
+59,"Bratislava, Slovakia",55,37.2K followers
+60,"Brussels, Belgium",53,137K followers
+61,"Athens, Greece",53,22.7K followers
+62,"Bangkok, Thailand",53,5.3M followers
+63,"Manama, Bahrain",52,28.1K followers
+64,"Minneapolis, USA",51,14.3K followers
+65,"Kampala, Uganda",50,9.2K followers
+66,"Sao Paulo, Brazil",50,78.6K followers
+67,"Incheon, South Korea",50,21K followers
+68,"Amsterdam, Netherlands",49,230.1K followers
+69,"Warsaw, Poland",49,318.9K followers
+70,"Washington, D.C., USA",49,35.3K followers
+71,"Munich, Germany",47,331.2K followers
+72,"Canberra, Australia",46,269.7K followers
+73,"Chongqing, China",45,164.4K followers
+74,"Denver, USA",45,1.5M followers
+75,"Moscow, Russia",44,743.8K followers
+76,"Nairobi, Kenya",43,13K followers
+77,"Skopje, North Macedonia",41,12.9K followers
+78,"Singapore, Singapore",41,843.4K followers
+79,"Pristina, Kosovo",41,12.1K followers
+80,"Santiago, Chile",41,92K followers
+81,"Milano, Italy",40,106.5K followers
+82,"Seoul, South Korea",40,6.1M followers
+83,"Lisbon, Portugal",38,19.3K followers
+84,"Dakar, Senegal",37,10.2K followers
+85,"Algiers, Algeria",37,36.8K followers
+86,"Kaohsiung, Taiwan",37,674.9K followers
+87,"Lima, Peru",37,34K followers
+88,"Birmingham, United Kingdom",36,280K followers
+89,"Kyiv, Ukraine",36,264.1K followers
+90,"Helsinki, Finland",35,71.9K followers
+91,"Sofia, Bulgaria",35,107.8K followers
+92,"Bishkek, Kyrgyzstan",34,36.2K followers
+93,"Astana, Kazakhstan",33,23.9K followers
+94,"Budapest, Hungary",33,20.3K followers
+95,"Nice, France",31,448.2K followers
+96,"Paris, France",29,5.3M followers
+97,"Rome, Italy",29,59.6K followers
+98,"Toronto, Canada",29,322.4K followers
+99,"Madrid, Spain",27,320.2K followers
 100,"Los Angeles, USA",27,5.8M followers
-101,"Lyon, France",26,481.2K followers
-102,"Rome, Italy",26,59.6K followers
-103,"Chicago, USA",26,40.2K followers
-104,"Kuching, Malaysia",25,48.5K followers
-105,"Stockholm, Sweden",25,32.1K followers
-106,"Pristina, Kosovo",25,12.1K followers
-107,"Oslo, Norway",25,29.8K followers
-108,"Sydney, Australia",25,1.6M followers
-109,"Vancouver BC, Canada",24,107.9K followers
-110,"Dakar, Senegal",21,10.2K followers
-111,"Seattle, USA",21,288.3K followers
-112,"Houston, USA",19,25.2K followers
-113,"Krasnoyarsk, Russia",17,93.9K followers
-114,"Montreal, Canada",17,105.3K followers
-115,"Belgrade, Serbia",17,191K followers
-116,"Toronto, Canada",13,322.4K followers
-117,"Portland, USA",12,119.8K followers
-118,"Auckland, New Zealand",11,63.2K followers
-119,"San Francisco, USA",11,567.5K followers
-120,"Dublin, Ireland",7,19K followers
-121,"Salt Lake City, USA",7,42.9K followers
